@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mobarok Hossain</h1>
-<h3 align="center">A passionate Bioinformatician developer from Bangladesh. I love to work on both Bacterial and Viral genomics data.</h3>
+<h3 align="center">A passionate Bioinformatician from Bangladesh. I love to work on both Bacterial and Viral genomics data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmobarokhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdmobarokhossain" /> </p>
 
