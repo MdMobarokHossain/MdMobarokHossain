@@ -5,10 +5,7 @@
 I like to develop bioinformatics analysis tools
 
 Skills: PYTHON / R / Illustartor/ STATA / SPSS
-
-- 🔭 I’m currently working on Klebsiella pneumoniae genomics 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on tools development 
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdMobarokHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ Md. Mobarok Hossain Parvej/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ Parvej Hossain)  
