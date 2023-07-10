@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Md Mobarok Hossain
-#### I am a Bioinformatician
+#### Bioinformatician
+#### icddr,b
 
 
 I like to develop bioinformatics analysis tools
