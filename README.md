@@ -1,9 +1,5 @@
-### Hi there 👋, My name is Md Mobarok Hossain
 ### Bioinformatician
 ### icddr,b
-
-
-I like to develop bioinformatics analysis tools
 
 Skills: PYTHON / R / Illustartor/ STATA / SPSS
  
