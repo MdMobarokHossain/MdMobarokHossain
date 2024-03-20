@@ -12,11 +12,5 @@ Welcome to my GitHub! I'm a passionate Bioinformatician dedicated to advancing t
 ![](https://github-readme-stats.vercel.app/api?username=MdMobarokHossain&show_icons=true&count_private=true&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMobarokHossain&layout=compact&theme=vue-dark)
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdMobarokHossain&theme=react-dark)
-
 ## 🔥 Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdMobarokHossain&theme=dark)
-
-## 👀 Profile Views
-![Profile views](https://gpvc.arturio.dev/MdMobarokHossain)  
