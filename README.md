@@ -1,4 +1,4 @@
-# Md. Mobarok Hossain  
+# Md Mobarok Hossain  
 ### Bioinformatician | Menzies Institute for Medical Research  
 <img src="https://github.com/MdMobarokHossain/MdMobarokHossain/blob/main/logo-menzies.svg" alt="Menzies Institute Logo" height="28"/>
 
