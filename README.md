@@ -2,25 +2,8 @@
 ### Bioinformatician | Menzies Institute for Medical Research  
 <img src="https://github.com/MdMobarokHossain/MdMobarokHossain/blob/main/logo-menzies.svg" alt="Menzies Institute Logo" height="28"/>
 
-```text
-     A-T
-    G---C
-   T-----A
-  C-------G
-   G-----C
-    A---T
-     C-G
-     T-A
-    G---C
-   T-----A
-  C-------G
-```
----
-
 ## About Me
 I am a Bioinformatician and PhD Researcher at the Menzies Institute for Medical Research, University of Tasmania. My research focuses on understanding the genetic architecture of complex neuroimmunological conditions, specifically investigating how viral genomics intersect with disease risk. By leveraging high-throughput multi-omics data, single-cell transcriptomics, and statistical genetics, I aim to unravel the complex mechanisms driving viral-host interactions and identify novel therapeutic targets.
-
----
 
 ## Technical Skills
 
@@ -33,17 +16,7 @@ I am a Bioinformatician and PhD Researcher at the Menzies Institute for Medical 
 ### Programming and Scripting
 * **R** (Seurat, Bioconductor, tidyverse, ggplot2)
 * **Python** (Scanpy, Pandas, NumPy, Scikit-learn, Matplotlib)
-* **Bash / Shell Scripting**
-
-### Statistics and Data Analysis
-* Advanced statistical modeling, regression analysis, and hypothesis testing
-* **STATA**, **SPSS**
-* Data visualization and reproducible reporting
-
-### Design and Visualization
-* **Adobe Illustrator**, **Adobe Photoshop** (Scientific graphic design and publication-quality figure presentation)
-
----
+* **Bash / Shell Scripting/HPC**
 
 ## Research Interests and Expertise
 * **Viral-Host Interactions:** Investigating cellular responses to viral infections, viral evolutionary dynamics, and host genetic susceptibility.
@@ -51,11 +24,7 @@ I am a Bioinformatician and PhD Researcher at the Menzies Institute for Medical 
 * **Complex Trait Genetics:** Integrating GWAS and post-GWAS functional genomics to identify risk variants and disease mechanisms.
 * **Translational Bioinformatics:** Developing data-driven computational workflows to accelerate biomedical and clinical insights.
 
----
-
 ## Links
 * [Academic Profile - University of Tasmania](https://discover.utas.edu.au/MdMobarok.Hossain)
-
----
 
 *Feel free to explore my repositories or connect for collaborations in bioinformatics, genomics, and computational biology.*
