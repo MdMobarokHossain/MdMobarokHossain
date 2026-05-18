@@ -1,41 +1,43 @@
-# 👨‍🔬 Md. Mobarok Hossain  
+# Md Mobarok Hossain  
 ### Bioinformatician | Menzies Institute for Medical Research  
 <img src="https://github.com/MdMobarokHossain/MdMobarokHossain/blob/main/logo-menzies.svg" alt="Menzies Institute Logo" height="28"/>
 
 ---
 
-## 🧬 About Me
-I am a **Bioinformatician and PhD researcher** with a strong interest in **genomic data analysis, machine learning, and host–virus interactions**.  
-My work focuses on translating complex biological data into meaningful insights, particularly in the context of **infectious diseases and neurological disorders**.
+## About Me
+I am a Bioinformatician and PhD researcher specializing in genomic data analysis, advanced transcriptomics, and host–pathogen dynamics. My work leverages high-throughput multi-omics data and statistical modeling to uncover the genetic underpinnings of complex traits, focusing particularly on infectious diseases, viral-host interactions, and neurological disorders.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming & Scripting
-- **Python**, **R**
+### Bioinformatics and Genomics
+* **Single-Cell Transcriptomics:** Single-Cell RNA-seq (scRNA-seq) data analysis, quality control, normalization, clustering, and differential expression.
+* **Statistical Genetics:** Genome-Wide Association Studies (GWAS), population stratification, and variant-to-phenotype mapping.
+* **Genomic Pipelines:** Variant calling, Copy Number Variation (CNV) analysis, and custom workflow development.
+* **Computational Biology:** Machine learning architectures applied to large-scale biomedical and multi-omics datasets.
 
-### 📊 Statistics & Data Analysis
-- **R**, **STATA**, **SPSS**
-- Statistical modeling & data visualization
+### Programming and Scripting
+* **R** (Seurat, Bioconductor, tidyverse)
+* **Python** (Scanpy, Pandas, NumPy, Scikit-learn)
+* **Bash / Shell Scripting**
 
-### 🧠 Bioinformatics & Genomics
-- Genomic data analysis pipelines  
-- Variant calling & CNV analysis  
-- Machine learning applied to biological data  
+### Statistics and Data Analysis
+* Advanced statistical modeling and hypothesis testing
+* **STATA**, **SPSS**
+* Data visualization (ggplot2, matplotlib, seaborn)
 
-### 🎨 Design & Visualization
-- **Adobe Illustrator**
-- **Adobe Photoshop**
-
----
-
-## 🚀 Research Interests
-- Host–virus genomic interactions  
-- Viral evolution and genetic diversity  
-- Machine learning for biomedical data  
-- Large-scale genomic and multi-omics analysis  
+### Design and Visualization
+* **Adobe Illustrator**, **Adobe Photoshop** (Scientific figure design and data presentation)
 
 ---
 
-📫 *Feel free to explore my repositories or connect for collaboration in bioinformatics and computational biology.*
+## Research Interests and Expertise
+* **Viral-Host Interactions:** Investigating cellular responses to viral infections, host susceptibility factors, and viral evolutionary dynamics.
+* **Single-Cell Resolution Genomics:** Dissecting cellular heterogeneity and microenvironmental shifts in disease states.
+* **Complex Trait Genetics:** Leveraging GWAS and post-GWAS analyses to identify novel therapeutic targets.
+* **Translational Bioinformatics:** Applying machine learning and predictive modeling to accelerate biomedical discoveries.
+
+---
+
+*Feel free to explore my repositories or connect for collaborations in bioinformatics, genomics, and computational biology.*
