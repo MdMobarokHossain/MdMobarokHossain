@@ -14,8 +14,7 @@
     G---C
    T-----A
   C-------G
-
-
+---
 
 ## About Me
 I am a Bioinformatician and PhD Researcher at the Menzies Institute for Medical Research, University of Tasmania. My research focuses on understanding the genetic architecture of complex neuroimmunological conditions, specifically investigating how viral genomics intersect with disease risk. By leveraging high-throughput multi-omics data, single-cell transcriptomics, and statistical genetics, I aim to unravel the complex mechanisms driving viral-host interactions and identify novel therapeutic targets.
